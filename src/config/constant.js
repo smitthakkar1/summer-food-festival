@@ -1,0 +1,1 @@
+export const HEADER_TITLE = "Summer 2018 Food Festival Toronto"
