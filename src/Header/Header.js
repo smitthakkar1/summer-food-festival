@@ -8,7 +8,6 @@ export const Header = () => {
 
         <PageHeader>
             {HEADER_TITLE}
-        <hr/>            
         </PageHeader>
     )
 }
