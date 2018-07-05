@@ -1,1 +1,1 @@
-export const HEADER_TITLE = "Summer 2018 Food Festival Toronto"
+export const HEADER_TITLE = "Summerlicious 2018 Food Festival, Toronto";
